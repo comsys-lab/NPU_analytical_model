@@ -2,7 +2,7 @@
 
 A research simulator that accelerates Neural Processing Unit (NPU) simulation through **analytical modeling** and **redundant simulation skipping**. Instead of cycle-accurate simulation, it directly computes runtime, on-chip buffer accesses, and off-chip memory accesses using closed-form equations, and reuses cached results for layers and pod partitions that share the same shape.
 
-For a detailed design document, see [`analytical_modeling/Simulation_Acceleration (KR Guide).pdf`](Simulation_Acceleration%20(KR%20Guide).pdf).
+For a detailed design document, see [`Simulation_Acceleration (KR Guide).pdf`](Simulation_Acceleration%20(KR%20Guide).pdf).
 
 ## Key Acceleration Ideas
 
