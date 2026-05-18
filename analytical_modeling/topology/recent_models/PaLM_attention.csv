@@ -1,0 +1,5 @@
+Masked_MH_get_Q_head0,2048,1,1,1,18432,384,1,
+Masked_MH_get_K_head0,2048,1,1,1,18432,384,1,
+Masked_MH_get_V_head0,2048,1,1,1,18432,384,1,
+Masked_MH_QxKT_head0,2048,1,1,1,384,2048,1,
+Masked_MH_QxKTxV_head0,2048,1,1,1,2048,384,1,

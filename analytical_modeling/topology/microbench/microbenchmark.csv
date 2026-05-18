@@ -1,0 +1,4 @@
+small,32,32,256,
+large_input,64,32,256,
+large_weight,32,64,256,
+large_all,64,64,256,
